@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Adnan Dlshad</title>
+  </head>
+  <body>
+    <header>
+      <a href="https://kurdsubtitle.net/user/Adnan_dlshad" class="logo">Adnan</a>
+      <nav class="Navigation">
+        <a href="#Experince">Experince</a>
+        <a href="#Translated">Translated</a>
+        <a href="#Contact">Contact</a>
+
+      </nav>
+    </header>
+
+    <section class="main">
+      <div>
+        <h2>Hello, i'm adnan<br /><span>Subtitling Translator</span></h2>
+        <h3>i simply translate</h3>
+        <a href="#Experince" class="main-btn">View my work</a>
+        <div class="Social-icons">
+        <a href="https://www.facebook.com/Adnan.dlshad/"><i class="fa-brands fa-facebook"></i></a>
+        <a href="https://www.instagram.com/adnan_dlshad/"><i class="fa-brands fa-instagram"></i></a>
+        <a href="https://t.me/Adnan_dlshad"><i class="fa-brands fa-telegram"></i></a>
+      </div>
+    </section>
+
+    <section class="cards" id="Experince">
+      <h2 class="title">Experince</h2>
+      <div class="Experince">
+        <div class="flex">
+        <div class="card">
+            <div class="icon">
+              <i class="fa-solid fa-user"></i>
+            </div>
+              <div class="info">
+                <h3>jobs</h3>
+                <P class="text">subtitling translator - Desgin Administrato - desginer - technical</P>
+              </div>
+            </div>    
+            <div class="card">
+              <div class="icon">
+                <i class="fa-sharp fa-solid fa-film"></i>
+              </div>
+                <div class="info">
+                  <h3>translating</h3>
+                  <P class="text">more than 78 movies and 33 series and over 300 episodes translated to kurdish</P>
+                </div>
+              </div>      
+              <div class="card">
+                <div class="icon">
+                  <i class="fa-sharp fa-solid fa-globe"></i>
+                </div>
+                  <div class="info">
+                    <h3>Websites</h3>
+                    <P class="text">working over 2 diffirent websites</P>
+                  </div>
+                </div>    
+            </div>
+            </div>
+            
+    </section>
+
+    <section class="translated" id="Translated">
+        <h2 class="title">Translated</h2>
+        <div class="Content">
+          <div class="flex">
+          <div class="translated-card">
+            <div class="translated-images">
+              <img class="width" src="images/thebatman.jpg" />
+            </div>
+              <div class="translated-info">
+                <P class="translated-catagory">The Batman Movie Translated</P>
+                <strong class="translated-title">
+                    <span>The Batman</span>
+                    <a href="https://kurdsubtitle.net/movie/312618" class="more-details">Watch here</a>
+                </strong>
+              </div>
+          </div>
+          
+          <div class="translated-card">
+            <div class="translated-images">
+              <img class="width" src="images/deadpool.jpg" />
+            </div>
+              <div class="translated-info">
+                <P class="translated-catagory">Deadpool Movie Translated</P>
+                <strong class="translated-title">
+                    <span>Deadpool</span>
+                    <a href="https://kurdsubtitle.net/movie/263093" class="more-details">Watch here</a>
+                </strong>
+              </div>
+          </div>
+          <div class="translated-card">
+            <div class="translated-images">
+              <img class="width" src="images/greenlantern.jpg" />
+            </div>
+              <div class="translated-info">
+                <P class="translated-catagory">Green Lantern movie Translated</P>
+                <strong class="translated-title">
+                    <span>Green Lantern</span>
+                    <a href="https://kurdsubtitle.net/movie/152834" class="more-details">Watch here</a>
+                </strong>
+              </div>
+          </div>
+          <div class="translated-card">
+            <div class="translated-images">
+              <img class="width" src="images/spider.jpg" />
+            </div>
+              <div class="translated-info">
+                <P class="translated-catagory">Spider-man: no way home Movie Translated</P>
+                <strong class="translated-title">
+                    <span>Spider-man: no way home</span>
+                    <a href="https://kurdsubtitle.net/movie/312618" class="more-details">Watch here</a>
+                </strong>
+              </div>
+          </div>
+          <div class="translated-card">
+            <div class="translated-images">
+              <img class="width" src="images/thegrand.webp" />
+            </div>
+              <div class="translated-info">
+                <P class="translated-catagory">The grand budapest hotel Movie Translated</P>
+                <strong class="translated-title">
+                    <span>The grand budapest hotel</span>
+                    <a href="https://kurdsubtitle.net/movie/326834" class="more-details">Watch here</a>
+                </strong>
+              </div>
+          </div>
+          <div class="translated-card">
+            <div class="translated-images">
+              <img class="width" src="images/uncharted.jpg" />
+            </div>
+              <div class="translated-info">
+                <P class="translated-catagory">uncharted Movie Translated</P>
+                <strong class="translated-title">
+                    <span>uncharted</span>
+                    <a href="https://kurdsubtitle.net/movie/412262" class="more-details">Watch here</a>
+                </strong>
+              </div>
+           </div>
+           </div>
+          </div>
+          </section>
+          <section class="cards contact" id="Contact">
+            <h2 class="title">Want to work together?</h2>
+            <div class="flex">
+            <div class="card">
+              <div class="icon">
+                <i class="fa-solid fa-phone-volume"></i>
+              </div>
+                <div class="info">
+                  <h3>call me</h3>
+                  <P class="text">+964 0783 463 82 83</P>
+                </div>
+              </div>      
+              <div class="card">
+                <div class="icon">
+                  <i class="fa-solid fa-envelope"></i>
+                </div>
+                  <div class="info">
+                    <h3>Email me</h3>
+                    <P class="text">adnan.dlshad25@gmail.com</P>
+                  </div>
+                </div>   
+                <div class="card">
+                  <div class="icon">
+                    <i class="fa-brands fa-viber"></i>
+                  </div>
+                    <div class="info">
+                      <h3>viber</h3>
+                      <P class="text">+964 0783 463 82 83</P>
+                    </div>
+                  </div>      
+              </div>
+          </section>
+
+          <footer class="footer">
+            <P class="footer-title">Copyrights @ <span>Adnan Dlshad</span></P>
+            <div class="Social-icons">
+              <a href="https://www.facebook.com/Adnan.dlshad/"><i class="fa-brands fa-facebook"></i></a>
+              <a href="https://www.instagram.com/adnan_dlshad/"><i class="fa-brands fa-instagram"></i></a>
+              <a href="https://t.me/Adnan_dlshad"><i class="fa-brands fa-telegram"></i></a>
+            </div>
+          </footer>
+  </body>
+</html>
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+scroll-behavior: smooth;
+}
+
+
+header {
+
+background-color: #adacac;
+width: 100%;
+position: fixed;
+z-index: 999;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 10PX 200px;
+}
+
+.logo {
+      text-decoration: none;    
+            color: black;            
+text-transform: uppercase;
+font-weight: 600;
+font-size: 1.8em;
+
+        }
+
+.Navigation a{
+    color: rgb(29, 3, 3);
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 400;
+    padding-left: 30px;
+}
+
+.Navigation a:hover{
+    color:purple
+}
+section {
+padding: 100px 200px;
+}
+
+.main {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(images/bg1.webp) no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.main h2{
+color: #adacac;
+font-size: 1.4em;
+font-weight: 5oo;
+}
+
+.main h2 span{
+    display: inline-block;
+    margin-top: 10px;
+    color: darkcyan;
+    font-size: 1.4em;
+    font-weight: 600;
+}
+
+.main h3{
+    color: #adacac;
+    font-size: 1.1em;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.main-btn{
+    color: #adacac;
+    background-color: darkcyan;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.9375em 2.1875em;
+    letter-spacing: 1px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    transition: 0.5s ease;
+}
+
+.main-btn:hover {
+    background-color: rgb(3, 113, 113);
+    transform: scale(1.1);
+}
+
+.Social-icons a {
+    color: #adacac;
+    font-size: 2em;
+    padding-right: 30px;
+
+
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    color: darkcyan;
+    font-size: 2em;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.Experince {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+.card{
+    background-color: #264653;
+    width:20em;
+    height: 14em;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 10%);
+    border-radius: 10px;
+    margin: 15px;
+    transition: 0.9sec ease;
+    align-items: center;
+    justify-content: center;
+}
+.text{
+    color: #fff;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+.icon{
+    color: #fff;
+    font-size: 2em;
+    text-align: center;
+    font-weight: 700;
+    margin: 10px;
+}
+
+.info {
+text-align: center;
+}
+
+.info h3{
+color: #fff;
+font-size: 1.1em;
+font-weight: 700;
+margin: 10px;
+
+}
+
+.translated {
+    background-color: #252525;
+}
+
+.translated .content{
+    margin-top: 30px;
+}
+
+.translated-card {
+    background-color: #fff;
+    border: 2px solid #fff;
+    min-height: 14em;
+    width: 20em;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 20px;
+    transition: 0.7s ease;
+}
+.width {
+    width:100%;
+}
+
+.translated-card:hover{
+    transform: scale(1.1);
+}
+.translated-card:hover .translated-images{
+    opacity: 0.9;
+}
+
+.translated-images img {
+    width: 100%;
+}
+
+.translated-info{
+    padding: 1em;
+}
+
+.translated-catagory{
+    font-size: 0.8em;
+    color: #000;
+}
+
+.translated-title{
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+    font-size: 0.7em;
+    font-weight: 800;
+    margin-top: 10px;
+}
+
+.more-details{
+    text-decoration: none;
+    color: darkcyan;
+}
+
+.more-details:hover{
+    color: purple;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contact {
+    background-color: #fff;
+    
+}
+
+.footer {
+    background-color: #252525;
+    color: #fff;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-title{
+    font-size: 1.3em;
+    font-weight: 500;
+}
+
+.footer-title span{
+    color: darkcyan;
+}
+
+.footer .Social-icons a{
+     font-size: 1.3em;
+     padding: 0 12px 0 0 ;
+}
+
+@media (max-width:1023px){
+    header{
+        padding: 12px 20px;
+    }
+    
+    title{
+font-size: 1.8em;
+    }
+}
